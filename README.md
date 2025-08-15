@@ -23,7 +23,7 @@ It provides separate **Admin** and **Standard User** modes, allowing users to bo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/GuhanManimaran/Bus-Reservation-Management.git
    cd your-repository-name
 
 2.Open the project in your favorite C++ IDE (Code::Blocks, Dev C++, Visual Studio, etc.)
